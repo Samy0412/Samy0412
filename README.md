@@ -23,12 +23,12 @@ I am a Montreal-based front-end junior developer with a background in structural
 
 <br><br><br><br><br><br>
 
-<a href="https://github.com/Samy0412/jungle">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=jungle" />
-</a>
-
 <a href="https://github.com/Samy0412/tinyapp">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tinyapp" />
+</a>
+
+<a href="https://github.com/Samy0412/jungle">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=jungle" />
 </a>
 
 <br><br><br><br><br><br>
