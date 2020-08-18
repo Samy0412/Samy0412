@@ -31,6 +31,7 @@ I am a Montreal-based front-end junior developer with a background in structural
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tinyapp" />
 </a>
 
+<br><br><br><br><br><br>
 
 ## Currently
 
