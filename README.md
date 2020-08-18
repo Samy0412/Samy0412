@@ -5,7 +5,7 @@ I am a Montreal-based front-end junior developer with a background in structural
 ## My featured repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=Neighbourhood-App)](https://github.com/Samy0412/Neighbourhood-App)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=scheduler)](https://github.com/Samy0412/scheduler)
 
 ## Currently
 
