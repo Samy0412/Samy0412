@@ -40,7 +40,7 @@ I am a Montreal-based front-end junior developer with a background in structural
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samy0412&hide=TSQL)](https://github.com/Samy0412/gihub-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samy0412&hide=TSQL&layout=compact)](https://github.com/Samy0412/gihub-readme-stats)
 
 <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/javasript-logo.png" width="10%"/>
 <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/ruby-logo.png" width="10%"/>
