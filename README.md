@@ -1,4 +1,4 @@
-![console.log]()
+![console.log](https://github.com/Samy0412/Samy0412/blob/master/console.log%20gif.gif?raw=true)
 
 I am a Montreal-based front-end junior developer with a background in structural engineering. Passionate about building things, whether they are physical or not, I am a deep creative thinker, detail oriented with a strong eye for design. 
 
