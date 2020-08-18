@@ -9,7 +9,7 @@ I am a Montreal-based front-end junior developer with a background in structural
 <br>
 <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/react-logo.png" width="15%"/>
 
-<br><br>
+
 
 ## Currently
 
