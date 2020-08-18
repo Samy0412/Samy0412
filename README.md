@@ -4,13 +4,6 @@ I am a Montreal-based front-end junior developer with a background in structural
 
 ## My featured repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=Neighbourhood-App)](https://github.com/Samy0412/Neighbourhood-App)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=scheduler)](https://github.com/Samy0412/scheduler)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=MyfleaMarket)](https://github.com/Samy0412/MyfleaMarket)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tweeter)](https://github.com/Samy0412/tweeter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=jungle)](https://github.com/Samy0412/jungle)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tinyapp)](https://github.com/Samy0412/tinyapp)
-
 <a href="https://github.com/Samy0412/Neighbourhood-App">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=Neighbourhood-App" />
 </a>
@@ -27,6 +20,17 @@ I am a Montreal-based front-end junior developer with a background in structural
 <a href="https://github.com/Samy0412/tweeter">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tweeter" />
 </a>
+
+<br><br><br><br><br><br>
+
+<a href="https://github.com/Samy0412/jungle">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=jungle" />
+</a>
+
+<a href="https://github.com/Samy0412/tinyapp">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tinyapp" />
+</a>
+
 
 ## Currently
 
