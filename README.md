@@ -6,11 +6,11 @@ I am a Montreal-based front-end junior developer with a background in structural
 ## Top Languages and technologies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samy0412&hide=TSQL&layout=compact)](https://github.com/Samy0412/gihub-readme-stats)
-
-<br><br>
+<br>
 <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/react-logo.png" width="15%"/>
 
 <br><br>
+
 ## Currently
 
 
