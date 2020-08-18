@@ -1,6 +1,21 @@
-![console.log](https://github.com/Samy0412/Samy0412/blob/master/console.log%20gif.gif?raw=true)
+
+Hello There! 👋🏼
 
 I am a Montreal-based front-end junior developer with a background in structural engineering. Passionate about building things, whether they are physical or not, I am a deep creative thinker, detail oriented with a strong eye for design. 
+
+## Top Languages and technologies
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samy0412&hide=TSQL&layout=compact)](https://github.com/Samy0412/gihub-readme-stats)
+
+<br><br><br><br><br><br>
+<img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/react-logo.png" width="15%"/>
+
+/>
+
+
+## Currently
+
+
 
 ## My featured repositories
 
@@ -33,20 +48,9 @@ I am a Montreal-based front-end junior developer with a background in structural
 
 <br><br><br><br><br><br>
 
-## Currently
 
 
 
-
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samy0412&hide=TSQL&layout=compact)](https://github.com/Samy0412/gihub-readme-stats)
-
-## Technologies
-
-<img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/javasript-logo.png" width="10%"/>
-<img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/ruby-logo.png" width="10%"/>
-<img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/react-logo.png" width="15%"/>
 
 
 
