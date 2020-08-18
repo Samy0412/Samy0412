@@ -3,16 +3,15 @@ Hello There! 👋🏼
 
 I am a Montreal-based front-end junior developer with a background in structural engineering. Passionate about building things, whether they are physical or not, I am a deep creative thinker, detail oriented with a strong eye for design. 
 
-## Top Languages and technologies
+## Currently
+
+
+
+## Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samy0412&hide=TSQL&layout=compact)](https://github.com/Samy0412/gihub-readme-stats)
 ![Top stacks](https://github.com/Samy0412/Samy0412/blob/master/Stacks.png?raw=true)
 <br>
-
-
-## Currently
-
-
 
 ## My featured repositories
 
