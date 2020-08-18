@@ -4,7 +4,7 @@ I am a Montreal-based front-end junior developer with a background in structural
 
 ## My featured repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=)](https://github.com/Samy0412/<repository_name>)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=Neighbourhood-App)](https://github.com/Samy0412/Neighbourhood-App)
 
 
 ## Currently
@@ -14,7 +14,6 @@ I am a Montreal-based front-end junior developer with a background in structural
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samy0412&layout=compact)](https://github.com/Samy0412/github-readme-stats)
 
 <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/python-logo.png" width="12%"/>
 <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/java-logo.png" width="15%"/>
