@@ -13,8 +13,17 @@ I am a Montreal-based front-end junior developer with a background in structural
 ![Top stacks](https://github.com/Samy0412/Samy0412/blob/master/Stacks.png?raw=true)
 ## 🗂 My featured repositories
 
-<a href="https://github.com/Samy0412/Neighbourhood-App">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=Neighbourhood-App" />
+<a href="https://github.com/Samy0412/amazon-clone">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tamazon-clone" />
+</a>
+<a href="https://github.com/Samy0412/CupOSugah-CLIENT">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=CupOSugah-CLIENT" />
+</a>
+
+<br><br><br><br><br><br>
+
+<a href="https://github.com/Samy0412/CupOSugah-API">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=CupOSugah-API" />
 </a>
 <a href="https://github.com/Samy0412/scheduler">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=scheduler" />
@@ -22,22 +31,11 @@ I am a Montreal-based front-end junior developer with a background in structural
 
 <br><br><br><br><br><br>
 
-<a href="https://github.com/Samy0412/MyfleaMarket">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=MyfleaMarket" />
+<a href="https://github.com/Samy0412/scheduler-api">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=scheduler-api" />
 </a>
-
 <a href="https://github.com/Samy0412/tweeter">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tweeter" />
-</a>
-
-<br><br><br><br><br><br>
-
-<a href="https://github.com/Samy0412/tinyapp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tinyapp" />
-</a>
-
-<a href="https://github.com/Samy0412/jungle">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=jungle" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tweeter />
 </a>
 
 <br><br><br><br><br><br>
