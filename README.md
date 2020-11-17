@@ -14,7 +14,7 @@ I am a Montreal-based front-end junior developer with a background in structural
 ## 🗂 My featured repositories
 
 <a href="https://github.com/Samy0412/amazon-clone">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tamazon-clone" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=amazon-clone" />
 </a>
 <a href="https://github.com/Samy0412/CupOSugah-CLIENT">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=CupOSugah-CLIENT" />
