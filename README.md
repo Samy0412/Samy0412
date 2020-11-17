@@ -35,7 +35,7 @@ I am a Montreal-based front-end junior developer with a background in structural
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=scheduler-api" />
 </a>
 <a href="https://github.com/Samy0412/tweeter">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tweeter />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=tweeter" />
 </a>
 
 <br><br><br><br><br><br>
