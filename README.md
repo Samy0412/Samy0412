@@ -1,7 +1,7 @@
 
 ## Hello There! 👋🏼
 
-I am a Montreal-based full-stack junior developer with a background in structural engineering, who freshly graduated from Lightouse Labs bootcamp. Passionate about building things, whether they are physical or not, I am a deep creative thinker, detail oriented with a strong eye for design, and enjoy front-end development a lot. 
+I am a Montreal-based full-stack junior developer with a background in structural engineering, who graduated from Lightouse Labs bootcamp. Passionate about building things, whether they are physical or not, I am a deep creative thinker, detail oriented with a strong eye for design, and enjoy front-end development a lot. 
 
 ## 👩🏻‍💻 Currently
 
