@@ -11,9 +11,9 @@ I am a Montreal-based full-stack junior developer, citizen of both Frace and Can
 
 ## 👩🏻‍💻 Currently
 
--> builing on my porfolio;
--> Learning redux;
--> Learning animations with CSS, javascript and animation libraries;
+-> builing on my porfolio <br>
+-> Learning redux <br>
+-> Learning animations with CSS, javascript and animation libraries <br>
 
 
 ## 🛠 Skills
