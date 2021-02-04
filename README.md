@@ -1,10 +1,19 @@
 
-## Hello There! 👋🏼
+## Bonjour, Hi! 👋🏼
 
-I am a Montreal-based full-stack junior developer with a background in structural engineering, who graduated from Lightouse Labs bootcamp. Passionate about building things, whether they are physical or not, I am a curious mind and a creative thinker, detail oriented with a strong eye for design, and enjoy front-end development a lot. 
+Je suis developeuse web junior basée à Montréal, citoyenne Française et Canadienne, mais qui aime mettre les pieds partout dans le monde! Je suis diplômée en dévelopement web full-stack du Bootcamp Lighthouse Labs, et j'ai travaillé précédemment comme ingénieure en structure dans le domaine de spectacle. De nature très curieuse, j'adore construire des choses, qu'elles soient materielles ou non. J'aime le design et je suis très soucieuse des détails, j'apprécie particulièrement le dévelopement front-end.
+
+*******
+
+I am a Montreal-based full-stack junior developer, citizen of both Frace and Canada, but who love to discover the world!  I graduated in full-stack web development from Lightouse Labs bootcamp, and I have a background in structural engineering, in the show industry. Passionate about building things, whether they are physical or not, I am a curious mind and a creative thinker, detail oriented with a strong eye for design, and enjoy front-end development a lot. 
+
+
 
 ## 👩🏻‍💻 Currently
 
+-> builing on my porfolio;
+-> Learning redux;
+-> Learning animations with CSS, javascript and animation libraries;
 
 
 ## 🛠 Skills
