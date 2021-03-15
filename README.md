@@ -5,7 +5,7 @@ Je suis developeuse web junior basée à Montréal, citoyenne Française et Cana
 
 *******
 
-I am a Montreal-based full-stack junior developer, citizen of both Frace and Canada, but who love to discover the world!  I graduated in full-stack web development from Lightouse Labs bootcamp, and I have a background in structural engineering, in the show industry. Passionate about building things, whether they are physical or not, I am a curious mind and a creative thinker, detail oriented with a strong eye for design, and enjoy front-end development a lot. 
+I am a Montreal-based full-stack junior developer, citizen of both France and Canada, but who love to discover the world!  I graduated in full-stack web development from Lightouse Labs bootcamp, and I have a background in structural engineering, in the show industry. Passionate about building things, whether they are physical or not, I am a curious mind and a creative thinker, detail oriented with a strong eye for design, and enjoy front-end development a lot. 
 
 
 
