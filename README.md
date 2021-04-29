@@ -47,9 +47,9 @@ I am a Montreal-based full-stack junior developer, citizen of both France and Ca
 
 <br><br><br><br><br><br>
 
-
-
-
+<a href="https://github.com/Samy0412/waves-music-app">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=waves-music-app" />
+</a>
 
 
 
