@@ -10,7 +10,7 @@ My name is samantha and I am a Montreal-based full-stack junior developer, citiz
 ## 📫  Contact
 
 - samantha.gadet@gmail.com
-- LinkedIn: https://www.linkedin.com/in/samantha-gadet/?locale=fr_FR
+- LinkedIn: https://www.linkedin.com/in/samantha-gadet/?locale=en_US
 
 
 ## 👩🏻‍💻 Currently 
