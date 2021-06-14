@@ -13,13 +13,6 @@ My name is samantha and I am a Montreal-based full-stack junior developer, citiz
 - LinkedIn: https://www.linkedin.com/in/samantha-gadet/?locale=en_US
 
 
-## 👩🏻‍💻 Currently 
-
--> Builing my porfolio <br>
--> Learning redux <br>
--> Learning animations with CSS, javascript and animation libraries <br>
-
-
 ## 🛠 Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samy0412&hide=TSQL&layout=compact)](https://github.com/Samy0412/gihub-readme-stats)
