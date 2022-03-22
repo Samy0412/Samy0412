@@ -50,7 +50,7 @@ My name is samantha and I am a Montreal-based full-stack junior developer, citiz
 <a href="https://github.com/Samy0412/capture-portfolio">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=capture-portfolio" />
 </a>
-<a href=https://github.com/Samy0412/movie-app">
+<a href="https://github.com/Samy0412/movie-app">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=movie-app" />
 </a>
 
