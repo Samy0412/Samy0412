@@ -50,9 +50,12 @@ My name is samantha and I am a Montreal-based full-stack junior developer, citiz
 <a href="https://github.com/Samy0412/capture-portfolio">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=capture-portfolio" />
 </a>
-<a href="https://github.com/Samy0412/capture-portfolio">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=capture-portfolio" />
+<a href=https://github.com/Samy0412/movie-app">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samy0412&repo=movie-app" />
 </a>
+
+<br><br><br><br><br><br>
+                                                                                                          
 
 <!--
 **Samy0412/Samy0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
