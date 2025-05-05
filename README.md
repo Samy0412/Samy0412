@@ -15,7 +15,6 @@ My name is samantha and I am a Montreal-based full-stack junior developer, citiz
 
 ## 🛠 Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samy0412&hide=TSQL&layout=compact)](https://github.com/Samy0412/gihub-readme-stats)
 ![Top stacks](https://github.com/Samy0412/Samy0412/blob/master/Stacks.png?raw=true)
 ## 🗂 My featured repositories
 
