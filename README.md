@@ -7,11 +7,6 @@ Je m'apelle Samantha et je suis developeuse web junior basée à Montréal, cito
 
 My name is samantha and I am a Montreal-based full-stack junior developer, citizen of both France and Canada, but who love to discover the world! Passionate about building things, whether they are physical or not, I am a curious mind and a creative thinker, detail oriented with a strong eye for design, and enjoy front-end development a lot. 
 
-## 📫  Contact
-
-- samantha.gadet@gmail.com
-- LinkedIn: https://www.linkedin.com/in/samantha-gadet/?locale=en_US
-
 
 ## 🗂 My featured repositories
 
