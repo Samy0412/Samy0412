@@ -13,9 +13,6 @@ My name is samantha and I am a Montreal-based full-stack junior developer, citiz
 - LinkedIn: https://www.linkedin.com/in/samantha-gadet/?locale=en_US
 
 
-## 🛠 Skills
-
-![Top stacks](https://github.com/Samy0412/Samy0412/blob/master/Stacks.png?raw=true)
 ## 🗂 My featured repositories
 
 <a href="https://github.com/Samy0412/CupOSugah-CLIENT">
